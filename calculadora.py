@@ -16,7 +16,7 @@ print(f"{primeiro} * {segundo} = {multiplicacao}")
 elif opcao == 4:
 divisao = primeiro / segundo
 print(f"{primeiro} / {segundo} = {divisao}")
-print("\n----| Menu Calculadora |---- \n1 - Somar \n2 - Subtrair \n3 -
+print("\n----♡♡♡| Menu Calculadora |♡♡♡---- \n1 - Somar \n2 - Subtrair \n3 -
 Multiplicar \n4 - Dividir \n0 - Sair")
 opcao = int(input("Digite sua opção: "))
 print("Encerrando a calculadora...")
